@@ -123,3 +123,4 @@ You should see your site deployed to GitHub Pages in a few minutes. 🚀
 Thanks for reading and I hope this helps. If you noticed someting wrong, please [open an issue](https://github.com/gregrickaby/nextjs-github-pages/issues). Cheers! 🍻
 
 ---
+Push
